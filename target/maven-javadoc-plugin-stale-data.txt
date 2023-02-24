@@ -1,0 +1,57 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'/workspace/r2-03-td4-maven-BIZETjln/src/main/java:/workspace/r2-03-td4-maven-BIZETjln/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/workspace/r2-03-td4-maven-BIZETjln/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'tp_qualite 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/workspace/r2-03-td4-maven-BIZETjln/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tp_qualite 1.0 API'
+'/workspace/r2-03-td4-maven-BIZETjln/src/main/java/HelloJava.java'
+'/workspace/r2-03-td4-maven-BIZETjln/src/main/java/Sapins.java'
+/workspace/r2-03-td4-maven-BIZETjln/src/main/java/HelloJava.java = 1677243758548
+/workspace/r2-03-td4-maven-BIZETjln/src/main/java/Sapins.java = 1677244222448
+/workspace/r2-03-td4-maven-BIZETjln/src/main/java = 1677243865352
+/workspace/r2-03-td4-maven-BIZETjln/target/generated-sources/annotations = 1677244323108
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/Sapins.html = 1677244335608
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/element-list = 1677244335612
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/package-summary.html = 1677244335616
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/package-tree.html = 1677244335620
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/constant-values.html = 1677244335624
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/package-use.html = 1677244335636
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/overview-tree.html = 1677244335640
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/package-search-index.js = 1677244335648
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/package-search-index.zip = 1677244335660
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/type-search-index.js = 1677244335660
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/type-search-index.zip = 1677244335660
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/member-search-index.js = 1677244335660
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/member-search-index.zip = 1677244335660
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/index-all.html = 1677244335660
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/allclasses-index.html = 1677244335704
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/allpackages-index.html = 1677244335704
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/deprecated-list.html = 1677244335708
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/allclasses.html = 1677244335716
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/index.html = 1677244335716
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/help-doc.html = 1677244335720
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/stylesheet.css = 1677244335724
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/script.js = 1677244335724
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/search.js = 1677244335724
+/workspace/r2-03-td4-maven-BIZETjln/target/apidocs/jquery-ui.overrides.css = 1677244335732
