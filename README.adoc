@@ -14,7 +14,7 @@
 
 - Pour finalement réaliser la javadoc
 
-=== Et finalement j'ai mdofifié le pom.xml
+=== Et finalement j'ai modifié le pom.xml
 
 - En rajoutant un plugin de génération de javadoc 
 
