@@ -20,7 +20,7 @@
 
 - en modifiant le nom du fichier à compiler de HelloJava à Sapins
 
-. voici le `plugin` pour la javadoc
+- voici le `plugin` pour la javadoc
 +
 [%collapsible]
 ====
@@ -41,4 +41,4 @@
 ----
 ====
 +
-.
+-
