@@ -1,0 +1,44 @@
+= Résultats du TP4 BIZET Julien
+
+//---------------------------------------------------------------
+
+=== Premièrement j'ai modifié la classe HelloJava
+
+- En rajoutant un void dans la déclaration de la fonction main
+
+=== Deuxièmement j'ai utilisé la classe Sapins du TP4 de développement en S1
+
+- J'ai donc importé la class
+
+- Le problème est qu'il n'y avait pas de main donc j'ai ajouté un main
+
+- Pour finalement réaliser la javadoc
+
+=== Et finalement j'ai mdofifié le pom.xml
+
+- En rajoutant un plugin de génération de javadoc 
+
+- en modifiant le nom du fichier à compiler de HelloJava à Sapins
+
+- voici le `plugin` pour la javadoc
++
+[%collapsible]
+====
+[source,java]
+----
+<plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-javadoc-plugin</artifactId>
+        	<executions>
+          		<execution>
+					<id>attach-javadocs</id>
+            		<goals>
+						<goal>jar</goal>
+            		</goals>
+				</execution>
+				</executions>
+</plugin>
+----
+====
++
+-
